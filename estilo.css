@@ -1,0 +1,163 @@
+*{
+	margin: 0;
+}
+iframe{
+	position: absolute;
+	top: 150px;
+	left: 80px;
+}
+body{
+	background-image: url('fundo.png');
+}
+header{
+	padding: 15px;
+	background-color: #FFB6C1;
+}
+footer{
+	background-color: black;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 70px;
+}
+table,td,tr,th{
+	border: solid;
+	background-color: white;
+}
+table{
+	position: absolute;
+	left: 385px;
+	bottom: 200px;
+}
+#rodape{
+	margin: 15px;
+	font-family: 'Times New Roman', serif;
+}
+.titulo{
+	color: white;
+	font-size: 200%;
+	text-decoration: none;
+	font-family: 'Times New Roman', serif;
+	padding: 1px;
+}
+.inicio{
+	color: white;
+	text-decoration: none;
+	font-family: 'Times New Roman', serif;
+	margin: 30px;
+	font-size: 125%;
+}
+.meio{
+	size: ;
+}
+#cachorro{
+	position: absolute;
+	right: 0;
+	margin-top: 160px;
+}
+.treslinks{
+	margin-top: 5px;
+	position: absolute;
+	top: 0;
+	right: 15px;
+}	
+.links{
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+#imgantipulga{
+	position: absolute;
+	left: 385px;
+	top: 155px;
+	size: 50%;
+}
+#shampoo{
+	position: absolute;
+	left: 570px;
+	top: 155px;
+}
+#sobrenos{
+	text-align: center;
+	background-color: white;
+	width: 10%;
+	margin: auto;
+	margin-top: 100px;
+}
+#sobrenostexto{
+	text-align: center;
+	background-color: white;
+	width: 40%;
+	margin: auto;
+	margin-top: 40px;
+}
+input,textarea{
+	display: block;
+	width: 30%;
+	padding: 20px;
+	text-align: center;
+	margin: auto;
+	margin-top: 15px;
+}
+input{
+	border-radius: 25px;
+}
+#formcontato{
+	margin-top: 130px;
+}
+#mensagem{
+	text-align: left;
+	height: 100px;
+}
+#titulofale{
+	position: absolute;
+	text-align: center;
+	top: 120px;
+	left: 610px;
+	font-size: 125%;
+	font-weight: bold;
+}
+button{
+	position: absolute;
+	left: 465px;
+	margin-top: 15px;
+	width: 30%;
+	padding: 20px;
+	background-color: lightgreen;
+	border-radius: 25px;
+}
+#form2{
+	margin-top: 100px;
+}
+#entrar{
+	margin-left: 15px;
+}
+#titulologin{
+	font-size: 125%;
+	margin-left: 660px;
+}
+#petstitulo{
+	text-align: center;
+	margin-top: 15px;
+}
+#pet1{
+	position: absolute;
+	top: 109px;
+	left: 350px;
+}
+#pet2{
+	position: absolute;
+	top: 109px;
+	left: 700px;
+}
+#pet3{
+	position: absolute;
+	top: 350px;
+	left: 350px;
+}
+#pet4{
+	position: absolute;
+	top: 350px;
+	left: 700px;
+}
